@@ -1,1 +1,3 @@
 State is an object that lives inside a component that holds data that it needs as well as its children. The single source of truth
+
+Rebase Package (like React firebase) is used to mirror our state to firebase 
